@@ -4,6 +4,9 @@
 
 ---
 
+<img width="1230" height="370" alt="image" src="https://github.com/user-attachments/assets/887fbfdb-aefa-4b3e-9821-cc4875c60f13" />
+
+
 ## 📌 Overview
 
 This workflow leverages **riboWaltz** to analyze ribosome profiling data from RiboLace experiments. The pipeline includes:
